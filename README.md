@@ -1,3 +1,4 @@
+<img src="./resources/img/logo.png">
 A simulation of an e-commerce site developed together with my companions at Aulab.it.
 Inside you can find:
 -User registration and login via Laravel fortify;
